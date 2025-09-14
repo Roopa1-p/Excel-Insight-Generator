@@ -40,13 +40,13 @@ Excel Insight Generator is a **Streamlit web app** that generates insights from 
 <details>
 <summary>Click to expand</summary>
 excel-insight-generator/
-│── app.py # Main Streamlit app
-│── utils/
-│ ├── data_processing.py # Preprocessing + EDA
-│ ├── visualization.py # Charts & plots
-│ └── ai_summary.py # Optional AI-powered insights
-│── requirements.txt # Dependencies
-│── README.md # Project documentation
+-│── app.py # Main Streamlit app
+-│── utils/
+-│ ├── data_processing.py # Preprocessing + EDA
+-│ ├── visualization.py # Charts & plots
+-│ └── ai_summary.py # Optional AI-powered insights
+-│── requirements.txt # Dependencies
+-│── README.md # Project documentation
 </details>
 
 ---
