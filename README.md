@@ -240,34 +240,3 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-
-## 🙏 Acknowledgments
-
-- Streamlit for the amazing web framework
-- OpenAI and Google for AI capabilities
-- The open-source community for excellent libraries
-
-## 📞 Support
-
-For issues, questions, or suggestions:
-- Open an issue on GitHub
-- Email: support@example.com
-- Documentation: [Link to docs]
-
-## 📊 Demo
-
-[Live Demo Link] | [Video Walkthrough]
-
----
-
-**Made with ❤️ for data enthusiasts**
